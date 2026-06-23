@@ -1,3 +1,5 @@
+https://tryhackme.com/room/brooklynninenine
+
 On running a thorough `nmap` scan as:
 
 ```shell
